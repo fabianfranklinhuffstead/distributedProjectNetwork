@@ -5,7 +5,8 @@
 <h2>The task: </h2>
 <ul>
   <li>Start Game</li>
-  <li>Allow user to race two Boats on the Network</li>
+  <li>Allow user to configure network</li>
+   <li>Allow user to race two Boats on the Network</li>
   <li>Selection of keys, maps and other settings included</li>
   <li>End game</li>
 </ul>
