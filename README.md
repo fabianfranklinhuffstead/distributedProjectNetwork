@@ -1,6 +1,6 @@
 # distributedProjectNetwork
 
-<p>A JAVA solution for creating Single Network application</p>
+<p>A Java solution for creating Single Network application</p>
 
 <h2>The task: </h2>
 <ul>
