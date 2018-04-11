@@ -1,6 +1,6 @@
 # distributedProjectNetwork
 
-<p>A Java solution for creating single network application base on the application which can be found here <a href="https://github.com/fabianfranklinhuffstead/distributedProjectSingleClient"></a></p>
+<p>A Java solution for creating single network application base on the application which can be found here <a href="https://github.com/fabianfranklinhuffstead/distributedProjectSingleClient">here</a>.</p>
 
 <h2>The task: </h2>
 <ul>
