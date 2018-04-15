@@ -7,7 +7,7 @@
   <li>Start Game</li>
   <li>Allow user to configure network</li>
    <li>Allow user to race two Boats on the Network</li>
-  <li>Selection of keys, maps and other settings included</li>
+  <li>Selection of keys, maps and other settings included i.e. Audio, Graphics</li>
   <li>End game</li>
 </ul>
 
