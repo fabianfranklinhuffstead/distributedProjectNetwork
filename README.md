@@ -11,5 +11,5 @@
   <li>End game</li>
 </ul>
 
-<p>Most instructions are include and is self intuitive contact for further guidance</p>
-<p>Please contact for fixes/changes</p>
+<p>Most instructions are include and is self intuitive contact for further guidance.</p>
+<p>Please contact for fixes/changes.</p>
