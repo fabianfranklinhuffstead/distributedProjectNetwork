@@ -19,7 +19,7 @@
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
 <h3>Network menu</h3>
-<img src="/src/mainImages/screenshots/selection-menu.png">
+<img src="/src/mainImages/screenshots/network-menu.png">
 
 <h3>Standard map</h3>
 <img src="/src/mainImages/screenshots/standard-map.png">
