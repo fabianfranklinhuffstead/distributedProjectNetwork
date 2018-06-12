@@ -18,6 +18,9 @@
 <h3>Selection menu</h3>
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
+<h3>Network menu</h3>
+<img src="/src/mainImages/screenshots/selection-menu.png">
+
 <h3>Standard map</h3>
 <img src="/src/mainImages/screenshots/standard-map.png">
 
