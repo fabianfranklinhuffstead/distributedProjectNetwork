@@ -11,5 +11,19 @@
   <li>End game</li>
 </ul>
 
+
+<h3>Main menu</h3>
+<img src="/src/mainImages/screenshots/main-menu.png">
+
+<h3>Selection menu</h3>
+<img src="/src/mainImages/screenshots/selection-menu.png">
+
+<h3>Standard map</h3>
+<img src="/src/mainImages/screenshots/standard-map.png">
+
+<h3>Alternative map</h3>
+<img src="/src/mainImages/screenshots/alternative-map.png">
+
+
 <p>Most instructions are include and is self intuitive contact for further guidance.</p>
 <p>Please contact for fixes/changes.</p>
