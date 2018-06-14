@@ -19,7 +19,7 @@
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
 <h3>Network menu</h3>
-<p>Please note for testing purposes you can select localhost 127.0.0.1</p>
+<p>Please note: for testing purposes you can select localhost 127.0.0.1</p>
 <img src="/src/mainImages/screenshots/network-menu.png">
 
 <h3>Standard map</h3>
