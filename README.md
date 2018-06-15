@@ -11,6 +11,8 @@
   <li>End game</li>
 </ul>
 
+<p>Make sure to run three instances, one for the server and two for the client</p>
+
 
 <h3>Main menu</h3>
 <img src="/src/mainImages/screenshots/main-menu.png">
