@@ -21,13 +21,15 @@
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
 <h3>Network menu</h3>
-<p>Please note: for testing purposes you can select localhost 127.0.0.1</p>
+<p>Please note: for testing purposes you can select localhost 127.0.0.1. From here you can run three instances of this on your local machine for testing purposes.</p>
 <img src="/src/mainImages/screenshots/network-menu.png">
 
 <h3>Standard map</h3>
+<p>Screen of the standard map</p>
 <img src="/src/mainImages/screenshots/standard-map.png">
 
 <h3>Alternative map</h3>
+<p>Screen of the Alternative map</p>
 <img src="/src/mainImages/screenshots/alternative-map.png">
 
 
