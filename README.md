@@ -29,7 +29,7 @@
 <img src="/src/mainImages/screenshots/standard-map.png">
 
 <h3>Alternative map</h3>
-<p>Screen of the Alternative map.</p>
+<p>Screen of the alternative map.</p>
 <img src="/src/mainImages/screenshots/alternative-map.png">
 
 
