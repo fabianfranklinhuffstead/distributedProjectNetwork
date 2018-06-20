@@ -15,10 +15,11 @@
 
 
 <h3>Main menu</h3>
-<p>Main menu selection screen when application is start</p>
+<p>Main menu selection screen when application is start.</p>
 <img src="/src/mainImages/screenshots/main-menu.png">
 
 <h3>Selection menu</h3>
+<p>This is a basic selection menu for in game settings including selection of the maps and more.</p>
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
 <h3>Network menu</h3>
