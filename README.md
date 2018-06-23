@@ -15,7 +15,7 @@
 
 
 <h3>Main menu</h3>
-<p>Main menu selection screen when application is start.</p>
+<p>Main menu selection screen when application is start. You can either select a network you wish to connect to or run a new instance of a network you wish to run the application from.</p>
 <img src="/src/mainImages/screenshots/main-menu.png">
 
 <h3>Selection menu</h3>
