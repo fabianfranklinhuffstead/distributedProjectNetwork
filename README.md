@@ -23,7 +23,7 @@
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
 <h3>Network menu</h3>
-<p>Please note: for testing purposes you can select localhost 127.0.0.1. From here you can run three instances of this on your local machine for testing purposes.</p>
+<p>Please note: for testing purposes you can select localhost on 127.0.0.1. From here you can run three instances of this on your local machine for testing purposes. One instance for the server and two seperate instances to run the application as the client.</p>
 <img src="/src/mainImages/screenshots/network-menu.png">
 
 <h3>Standard map</h3>
