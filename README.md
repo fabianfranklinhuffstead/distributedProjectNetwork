@@ -19,6 +19,7 @@
 <img src="/src/mainImages/screenshots/main-menu.png">
 
 <h3>Selection menu</h3>
+<p>Please note: You must select a network for initiation</p>
 <p>This is a basic selection menu for in game settings including selection of the maps and more.</p>
 <img src="/src/mainImages/screenshots/selection-menu.png">
 
