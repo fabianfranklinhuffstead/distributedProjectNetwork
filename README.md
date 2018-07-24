@@ -13,6 +13,10 @@
 
 <p>Make sure to run three instances, one for the server and two for the client</p>
 
+<h2>Requirements: </h2>
+<ul>
+  <li>Java 8/li>
+</ul>
 
 <h3>Main menu</h3>
 <p>Main menu selection screen when application is start. You can either select a network you wish to connect to or run a new instance of a network you wish to run the application from.</p>
