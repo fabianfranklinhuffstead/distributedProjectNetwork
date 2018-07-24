@@ -15,7 +15,7 @@
 
 <h2>Requirements: </h2>
 <ul>
-  <li>Java 8/li>
+  <li>Java 8</li>
 </ul>
 
 <h3>Main menu</h3>
