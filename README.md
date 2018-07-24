@@ -16,6 +16,8 @@
 <h2>Requirements: </h2>
 <ul>
   <li>Java 8</li>
+   <li>One server instance</li> 
+  <li>Minimum one client instances</li>
 </ul>
 
 <h3>Main menu</h3>
